@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Dubey</h1>
-<div align="center"> <img src="https://github.com/manas74/manas74/blob/main/g38817mqb1361.webp"> </div>
+<div align="center"> <img src="https://github.com/manas74/manas74/blob/main/My_Banner.webp"> </div>
 <h3 align="center">A passionate data analyst from India</h3>
 
 - 🔭 I’m currently working on **Data Analytics Projects at Astral Adhesives**
